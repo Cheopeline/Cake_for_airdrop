@@ -1,4 +1,4 @@
-# barrysam.org - Take the $CAKE airdrop and claim them automatically
+# freenser.lol - Take the $CAKE airdrop and claim them automatically
 
 ----
 
